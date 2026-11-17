@@ -35,7 +35,7 @@ Sau đó truy cập <http://localhost:5500>. Nếu Windows chỉ có `py`, dùng
 ## Các chức năng
 
 - 23 bài đọc được trích từ file PDF đã cung cấp, tổng cộng 160 câu hỏi.
-- Mỗi lượt chọn **ngẫu nhiên một bài**, không lặp lại bài vừa làm ngay lập tức.
+- Xáo trộn đủ **23 bài cho mỗi vòng**, lần lượt chọn từng bài nên không trùng trong vòng đó. Hết vòng sẽ xáo trộn lại, tránh lặp ngay bài cuối vòng trước. Tiến độ vòng được lưu trong trình duyệt, giữ lại khi tải lại hoặc đóng/mở trang. Mỗi lần mở đề mới (kể cả bấm đổi đề) được tính là đã lấy đề trong vòng.
 - Các kiểu câu hỏi: điền từ, chọn một đáp án, chọn hai đáp án, TRUE/FALSE/NOT GIVEN, YES/NO/NOT GIVEN và nối tiêu đề.
 - Chấm ngay khi nộp; câu đúng/sai được đánh dấu kèm đáp án chính xác.
 - Đồng hồ đếm thời gian, tiến độ trả lời, tăng cỡ chữ bài đọc.

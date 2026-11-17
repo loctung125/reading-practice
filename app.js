@@ -14,9 +14,29 @@ function prettifyPassage(raw){
 function openView(name){ ['welcome','exam','history'].forEach(id=>$(id).classList.toggle('hidden',id!==name));window.scrollTo({top:0,behavior:'instant'}) }
 function updateHeader(){const h=getHistory();$('historyCount').textContent=h.length;$('completedCount').textContent=h.length;$('setCount').textContent=bank.length;$('questionCount').textContent=bank.reduce((n,s)=>n+s.questions.length,0)}
 function pickRandom(){
-  const last = Number(sessionStorage.getItem('reading-last-id')||'-1');
-  const pool=bank.map((_,i)=>i).filter(i=>i!==last);
-  const idx=pool[Math.floor(Math.random()*pool.length)];sessionStorage.setItem('reading-last-id',idx);return bank[idx]
+  const key='reading-lab-deck-v1';
+  const signature=JSON.stringify(bank.map(item=>[item.title,item.passage]));
+  let deck;
+  try{deck=JSON.parse(localStorage.getItem(key))}catch{}
+  if(!deck||deck.signature!==signature||!Array.isArray(deck.remaining)||
+    new Set(deck.remaining).size!==deck.remaining.length||
+    !deck.remaining.every(i=>Number.isInteger(i)&&i>=0&&i<bank.length)){
+    deck={signature,remaining:[],last:null};
+  }
+  if(!deck.remaining.length){
+    deck.remaining=bank.map((_,i)=>i);
+    for(let i=deck.remaining.length-1;i>0;i--){
+      const j=Math.floor(Math.random()*(i+1));
+      [deck.remaining[i],deck.remaining[j]]=[deck.remaining[j],deck.remaining[i]];
+    }
+    // Avoid repeating the last passage at the start of the next round.
+    if(deck.remaining.length>1&&deck.remaining[0]===deck.last){
+      const j=1+Math.floor(Math.random()*(deck.remaining.length-1));
+      [deck.remaining[0],deck.remaining[j]]=[deck.remaining[j],deck.remaining[0]];
+    }
+  }
+  const idx=deck.remaining.shift();deck.last=idx;
+  localStorage.setItem(key,JSON.stringify(deck));return bank[idx]
 }
 function newExam(){
   if(active&&!submitted&&answers.some(a=>a&&a.length)&&!confirm('Bạn đang làm dở. Bạn có chắc muốn đổi đề không?'))return;
