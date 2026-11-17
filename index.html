@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0c1525" />
+  <title>Reading Lab · B2 Practice</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a href="#" class="brand" id="homeLink"><span class="brand-symbol">R<span>.</span></span><span>READING <em>LAB</em><small>YOUR DAILY PRACTICE SPACE</small></span></a>
+      <div class="header-right"><span class="online-dot"></span><span>OFFLINE READY</span><span class="top-separator"></span><button id="historyBtn" class="text-button">Lịch sử <span id="historyCount">0</span></button></div>
+    </header>
+
+    <main>
+      <section class="welcome" id="welcome">
+        <div class="welcome-copy">
+          <div class="eyebrow"><span class="line"></span> ENGLISH / B2 READING PRACTICE</div>
+          <h1>Read more.<br/><i>Understand better.</i></h1>
+          <p>Mỗi lần một bài đọc ngẫu nhiên từ tài liệu của bạn. Đọc, trả lời, nộp bài và xem kết quả ngay — không cần kết nối Internet.</p>
+          <div class="stat-grid"><div class="stat"><strong id="setCount">23</strong><span>BÀI ĐỌC</span></div><div class="stat"><strong id="questionCount">160</strong><span>CÂU HỎI</span></div><div class="stat"><strong id="completedCount">0</strong><span>LƯỢT ĐÃ LÀM</span></div></div>
+          <button id="startBtn" class="primary-button">Bắt đầu đề ngẫu nhiên <span>↗</span></button>
+          <p class="footnote">Bài tập được khôi phục từ READING.pdf · Chấm tự động, lưu lịch sử trên máy</p>
+        </div>
+        <div class="hero-card"><div class="hero-top"><span>READING NOTEBOOK</span><span>VOL. 01 — 23</span></div><div class="hero-number">B2<span>↗</span></div><div class="hero-divider"></div><div class="hero-caption">Little by little,<br/><i>a little becomes a lot.</i></div><div class="hero-bottom"><span>VOCABULARY</span><span>COMPREHENSION</span><span>CONFIDENCE</span></div></div>
+      </section>
+
+      <section id="exam" class="exam hidden">
+        <div class="exam-top"><div><div class="eyebrow">CURRENT PRACTICE <span class="slash">/</span> <span id="examCounter">SESSION 01</span></div><h2 id="examTitle">Reading title</h2><p id="examMeta"></p></div><div class="exam-tools"><span class="timer" id="timer">00:00</span><button class="outline-button" id="newBtn">Đề khác ↗</button></div></div>
+        <div class="practice-grid">
+          <article class="reading-panel"><div class="panel-heading"><span>01 <span class="dim">/ READING PASSAGE</span></span><button id="fontBtn" class="small-button" title="Tăng/giảm cỡ chữ">A↕</button></div><div id="passage" class="passage"></div></article>
+          <section class="questions-panel"><div class="panel-heading"><span>02 <span class="dim">/ YOUR ANSWERS</span></span><span id="progressText">0 / 0</span></div><div class="progress-rail"><div id="progressBar"></div></div><p class="instruction" id="instructions">Đọc đoạn văn và trả lời câu hỏi.</p><div id="questions"></div><div id="result" class="result hidden"></div><div class="exam-actions"><button id="submitBtn" class="primary-button">Nộp bài & chấm điểm <span>↗</span></button><button id="nextBtn" class="primary-button hidden">Làm đề ngẫu nhiên khác <span>↗</span></button></div></section>
+        </div>
+      </section>
+
+      <section id="history" class="history hidden"><div class="eyebrow">YOUR PROGRESS</div><h2>Lịch sử luyện tập</h2><div id="historyContent"></div><button class="outline-button" id="backBtn">← Quay lại</button></section>
+    </main>
+    <footer>READING LAB <span>·</span> LEARN AT YOUR OWN PACE <span>·</span> BUILT FOR LOCAL PRACTICE</footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

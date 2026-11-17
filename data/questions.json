@@ -1,0 +1,1473 @@
+[
+  {
+    "title": "The world's friendliest city",
+    "passage": "B2 – READING UNIT 1 The world's friendliest city A team of social psychologists from California has spent six years studying the reactions of people in cities around the world to different situations. The results show that cities where people have less money generally have friendlier populations. Rio de Janeiro in Brazil, which is often known for its crime, comes out top, and the capital of Malawi, Lilongwe, comes third. But what makes one city friendlier than another? The psychologists from California State University say it has got more to do with environment than culture or nationality. They carried out a study into the way locals treated strangers in 23 cities around the world. The team conducted their research through a series of tests, where they dropped pens or pretended they were blind and needed help crossing the street. The study concludes that people are more helpful in cities with a more relaxed way of life, such as Rio. While they were there, researchers received help in 93 percent of cases, and the percentage in Lilongwe was only a little lower. However, richer cities such as Amsterdam and New York are considered the least friendly. Inhabitants of Amsterdam helped the researchers in 53 percent of cases and in New York just 44 percent. The psychologists found that, in these cities, people tend to be short of time, so they hurry and often ignore strangers. Adapted from an article by Victoria Harrison, BBC News",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "Rio de Janeiro: a more _____ lifestyle",
+        "answer": "relaxed",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "People in Rio do not have so much _____.",
+        "answer": "money",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Rio has a reputation for _____.",
+        "answer": "crime",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "People in Amsterdam and New York have little _____.",
+        "answer": "time",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "People there do not pay attention to _____.",
+        "answer": "strangers",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "The happiest country in the world",
+    "passage": "The happiest country in the world Children growing up in Costa Rica are surrounded by some of the most beautiful and diverse landscapes in the world. Preserving tropical rainforests isn't Costa Rica's only success, because the government also makes sure everyone has access to health-care and education. So when the New Economics Foundation released its second Happy Planet Index, Costa Rica came out number one. The index is a ranking of countries based on their impact on the environment and the health and happiness of their citizens. According to Mariano Rojas, a Costa Rican economics professor, Costa Rica is a mid-income country where citizens have plenty of time for themselves and for their relationships with others. 'A mid-income level allows most citizens to satisfy their basic needs. The government makes sure that all Costa Ricans have access to education, health and nutrition services.' Costa Ricans, he believes, are not interested in status or spending money to show how successful they are. Created in 2008, the Happy Planet Index examines happiness on a national level and ranks 143 countries according to three measurements: their citizens' happiness, how long they live (which reflects their health), and how much of the planet's resources each country consumes. According to researcher Saamah Abdallah, the Index also measures the outcomes that are most important, and those are happy, healthy lives for everyone. Adapted from Yes! Magazine",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "The Happy Planet Index was created in _____.",
+        "answer": "2008",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "It ranks _____ countries.",
+        "answer": "143",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "It measures the impact on the _____.",
+        "answer": "environment",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "It considers the planet’s _____.",
+        "answer": "resources",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "How long people live reflects their _____.",
+        "answer": "health",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "It measures the happiness of each country’s _____.",
+        "answer": "citizens",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Freya Stark, explorer and writer",
+    "passage": "Freya Stark, explorer and writer Freya Stark travelled to many areas of the Middle East, often alone. Freya Stark was an explorer who lived during a time when explorers were regarded as heroes. She travelled to distant areas of the Middle East, where few Europeans – especially women – had travelled before. She also travelled extensively in Turkey, Greece, Italy, Nepal and Afghanistan. Stark was born in Paris in 1893. Although she had no formal education as a child, she moved about with her artist parents and learned French, German and Italian. She entered London University in 1912, but at the start of World War I, she joined the nurse corps and was sent to Italy. After the war, she returned to London and attended the School of Oriental Studies. Her studies there led to extensive travel in the Middle East, enabling her to eventually become fluent in Persian, Russian and Turkish. Stark became well known as a traveller and explorer in the Middle East. She travelled to the Lebanon in 1927 at the age of 33 when she had saved enough money, and while there, she studied Arabic. In 1928, she travelled by donkey to the Jebel Druze, a mountainous area in Syria. During another trip, she went to a distant region of the Elburz, a mountain range in Iran, where she made a map. She was searching for information about an ancient Muslim sect known as the Assassins, which she wrote about in Valley of the Assassins (1934), a classic for which she was awarded a Gold Medal by the Royal Geographic Society. For the next 12 years, she continued her career as a traveller and writer, establishing a style which combined an account of her journeys with personal commentary on the people, places, customs, history and politics of the Middle East. Adapted from Science and its times, 2000",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "Her first formal education was at _____.",
+        "answer": "London University",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "She worked as a _____ in Italy.",
+        "answer": "nurse",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "She studied _____ in Lebanon.",
+        "answer": "Arabic",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "She travelled through the Syrian mountains on a _____.",
+        "answer": "donkey",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "She received a _____ for her book in 1934.",
+        "answer": "Gold Medal",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "She continued travelling and writing for another _____ years.",
+        "answer": "12",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "What were explorers regarded as in her lifetime?",
+        "answer": "heroes",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "What event interrupted her university education?",
+        "answer": "World War I",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "What did she make while travelling in Iran?",
+        "answer": "map",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "What group did she research in Iran?",
+        "answer": "Assassins",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Mau Piailug, ocean navigator",
+    "passage": "Mau Piailug, ocean navigator Mau sailed from Hawaii to Tahiti using traditional methods. In early 1976, Mau Piailug, a fisherman, led an expedition in which he sailed a traditional Polynesian boat across 2,500 miles of ocean from Hawaii to Tahiti. The Polynesian Voyaging Society had organised the expedition. Its purpose was to find out if seafarers in the distant past could have found their way from one island to the other without navigational instruments, or whether the islands had been populated by accident. At the time, Mau was the only man alive who knew how to navigate just by observing the stars, the wind and the sea. He had never before sailed to Tahiti, which was a long way to the south. However, he understood how the wind and the sea behave around islands, so he was confident he could find his way. The voyage took him and his crew a month to complete and he did it without a compass or charts. His grandfather began the task of teaching him how to navigate when he was still a baby. He showed him pools of water on the beach to teach him how the behaviour of the waves and wind changed in different places. Later, Mau used a circle of stones to memorise the positions of the stars. Each stone was laid out in the sand to represent a star. The voyage proved that Hawaii's first inhabitants came in small boats and navigated by reading the sea and the stars. Mau himself became a keen teacher, passing on his traditional secrets to people of other cultures so that his knowledge would not be lost. He explained the positions of the stars to his students, but he allowed them to write things down because he knew they would never be able to remember everything as he had done.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "The purpose of the voyage was to find the quickest route between Hawaii and Tahiti.",
+        "answer": "FALSE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "The voyage tested whether early islanders could navigate between islands.",
+        "answer": "TRUE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Mau’s boat belonged to the Polynesian Voyaging Society.",
+        "answer": "NOT GIVEN",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Mau had unique navigation skills at the time.",
+        "answer": "TRUE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Mau had already sailed around Tahiti.",
+        "answer": "FALSE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Mau thought using a compass and charts would be difficult.",
+        "answer": "NOT GIVEN",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Mau’s grandfather was his only teacher.",
+        "answer": "NOT GIVEN",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Mau used stones to learn the positions of stars.",
+        "answer": "TRUE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "The first people in Hawaii could read and write.",
+        "answer": "NOT GIVEN",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Mau required his students to memorise all star positions without notes.",
+        "answer": "FALSE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "The electric revolution",
+    "passage": "The electric revolution Your next car may be electric. We look at the technologies that will bring the revolution. The main reasons why electric cars are not more popular at present are their price and their relatively small range. Existing battery systems only allow electric cars to travel a distance of between 100 and 160 km. However, this distance may not be a problem for urban drivers. A recent Sydney study reported that 70 percent of journeys were 30 km or less, and recent data from the US suggests that 77 percent of trips taken there are 48 km or less. An innovative company called Better Place is aiming to make electric cars an option for all drivers. It wants to see existing vehicles replaced by electric vehicles which, it says, offer a number of benefits. Firstly, they can be powered by renewable energy which produces zero emissions. What is more, electric motors are more efficient and can convert more than 90 percent of power into movement, whereas the efficiency of diesel or petrol engines is less than 20 percent. To achieve its aim, Better Place plans to use technology which is already available. The plan is simple but revolutionary. It starts with the installation of a home charge point, and through this, the vehicle will be plugged into the electricity grid whenever it is in the garage, typically at night. In the morning, with a fully charged battery, the car is capable of as much as 160 km in urban motoring conditions. In addition to the home charge point, the battery can be topped up by charge points at work and at supermarkets. The battery is linked to a control centre by smart technology inside the vehicle. Better Place can then ensure that the car is charged with electricity from renewable sources at the cheapest price. For longer trips, a navigation system directs the driver to the nearest switch station, where the depleted battery can be replaced with a charged one by a robot within a couple of minutes. By Tim Thwaites, issue 29 of Cosmos, October 2009",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "The home charge point connects the car to the _____.",
+        "answer": "electricity grid",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "In urban conditions a charged battery can last up to _____ km.",
+        "answer": "160",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Besides home, a battery may be recharged at _____.",
+        "answer": "work",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The control centre helps obtain power at the cheapest _____.",
+        "answer": "price",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The _____ directs the driver to a switch station.",
+        "answer": "navigation system",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "At the switch station, a _____ can change batteries.",
+        "answer": "robot",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Traffic jams – no end in sight",
+    "passage": "Traffic jams – no end in sight There are no easy answers to the problems of traffic congestion. A. Traffic congestion affects people throughout the world. Traffic jams cause smog in dozens of cities across both the developed and developing world. In the US, commuters spend an average of a full working week each year sitting in traffic jams, according to the Texas Transportation Institute. While alternative ways of getting around are available, most people still choose their cars because they are looking for convenience, comfort and privacy. B. The most promising technique for reducing city traffic is called congestion pricing, whereby cities charge a toll to enter certain parts of town at certain times of day. In theory, if the toll is high enough, some drivers will cancel their trips or go by bus or train. And in practice it seems to work: Singapore, London and Stockholm have reduced traffic and pollution in city centres thanks to congestion pricing. C. Another way to reduce rush-hour traffic is for employers to implement flextime, which lets employees travel to and from work at off-peak traffic times to avoid the rush hour. Those who have to travel during busy times can do their part by sharing cars. Employers can also allow more staff to telecommute (work from home) so as to keep more cars off the road altogether. D. Some urban planners still believe that the best way to ease traffic congestion is to build more roads, especially roads that can take drivers around or over crowded city streets. But such techniques do not really keep cars off the road; they only accommodate more of them. E. Other, more forward-thinking, planners know that more and more drivers and cars are taking to the roads every day, and they are unwilling to encourage more private automobiles when public transport is so much better both for people and the environment. For this reason, the American government has decided to spend some $7 billion on helping to increase capacity on public transport systems and upgrade them with more efficient technologies. But environmentalists complain that such funding is tiny compared to the $50 billion being spent on roads and bridges. Adapted from The Environment Magazine, Earthtalk.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph A",
+        "answer": "vii",
+        "options": [
+          "i. A solution which is no solution",
+          "ii. Changing working practices",
+          "iii. Closing city centres to traffic",
+          "iv. Making cars more environmentally friendly",
+          "v. Not doing enough",
+          "vi. Paying to get in",
+          "vii. A global problem"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph B",
+        "answer": "vi",
+        "options": [
+          "i. A solution which is no solution",
+          "ii. Changing working practices",
+          "iii. Closing city centres to traffic",
+          "iv. Making cars more environmentally friendly",
+          "v. Not doing enough",
+          "vi. Paying to get in",
+          "vii. A global problem"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph C",
+        "answer": "ii",
+        "options": [
+          "i. A solution which is no solution",
+          "ii. Changing working practices",
+          "iii. Closing city centres to traffic",
+          "iv. Making cars more environmentally friendly",
+          "v. Not doing enough",
+          "vi. Paying to get in",
+          "vii. A global problem"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph D",
+        "answer": "i",
+        "options": [
+          "i. A solution which is no solution",
+          "ii. Changing working practices",
+          "iii. Closing city centres to traffic",
+          "iv. Making cars more environmentally friendly",
+          "v. Not doing enough",
+          "vi. Paying to get in",
+          "vii. A global problem"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph E",
+        "answer": "v",
+        "options": [
+          "i. A solution which is no solution",
+          "ii. Changing working practices",
+          "iii. Closing city centres to traffic",
+          "iv. Making cars more environmentally friendly",
+          "v. Not doing enough",
+          "vi. Paying to get in",
+          "vii. A global problem"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Air conditioning",
+    "passage": "Air conditioning The history of an invention that makes life more pleasant. Willis Carrier designed the first air-conditioning unit in 1902, just a year after graduating from Cornell University with a Masters in Engineering. At a Brooklyn printing plant, fluctuations in heat and moisture were causing the size of the printing paper to keep changing slightly, making it hard to align different colours. Carrier's invention made it possible to control temperature and humidity levels and so align the colours. The invention also allowed industries such as film, processed food, textiles and pharmaceuticals to improve the quality of their products. In 1914, the first air-conditioning device was installed in a private house. However, its size, similar to that of an early computer, meant it took up too much space to come into widespread use, and later models, such as the Weathermaker, which Carrier brought out in the 1920s, cost too much for most people. Cooling for human comfort, rather than industrial need, really took off when three air conditioners were installed in the J.L. Hudson Department Store in Detroit, Michigan. People crowded into the shop to experience the new invention. The fashion spread from department stores to cinemas, whose income rose steeply as a result of the comfort they provided. To start with, money-conscious employers regarded air conditioning as a luxury. They considered that if they were paying people to work, they should not be paying for them to be comfortable as well. So in the 1940s and '50s, the industry started putting out a different message about its product: according to their research, installing air conditioning increased productivity amongst employees. They found that typists increased their output by 24% when transferred from a regular office to a cooled one. Another study into office working conditions, which was carried out in the late '50s, showed that the majority of companies cited air conditioning as the single most important contributor to efficiency in offices. However, air conditioning has its critics. Jed Brown, an environmentalist, complains that air conditioning is a factor in global warming. Unfortunately, he adds, because air conditioning leads to higher temperatures, people have to use it even more. However, he admits that it provides a healthier environment for many people in the heat of summer.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "Why did Willis Carrier invent air conditioning?",
+        "answer": "D",
+        "options": [
+          "A. To make workers feel cooler",
+          "B. To produce more attractive paper",
+          "C. To set up a new business",
+          "D. To solve problems in a factory"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Why were home air conditioners not popular at first?",
+        "answer": "A",
+        "options": [
+          "A. They were too big and expensive",
+          "B. They were unnecessary",
+          "C. They were inefficient",
+          "D. They were complicated to use"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Why did employers initially refuse to install air conditioning?",
+        "answer": "C",
+        "options": [
+          "A. They could not afford it",
+          "B. They preferred cinemas",
+          "C. They did not want to spend on employee comfort",
+          "D. They feared workers would work less"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Why was research carried out in the 1940s and 1950s?",
+        "answer": "C",
+        "options": [
+          "A. To increase output directly",
+          "B. To compare types",
+          "C. To persuade businesses to buy air conditioning",
+          "D. To encourage office relocation"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "What does Jed Brown say about air conditioning?",
+        "answer": "D",
+        "options": [
+          "A. Everyone will need it",
+          "B. Turning it off will not help",
+          "C. It damages health",
+          "D. It benefits people but harms the environment"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Rubik's Cube",
+    "passage": "How the puzzle achieved success Erno Rubik first studied sculpture and then later architecture in Budapest, where he went on to become a teacher of interior design. It was while he was working as a teacher that he began the preliminary work on an invention that he called the 'Magic Cube'. Rubik was inspired by geometric puzzles such as the Chinese tangram, a puzzle consisting of various triangles, a square and a parallelogram which can be combined to create different shapes and figures. However, unlike the tangram, which is two-dimensional, Rubik was more interested in investigating how three-dimensional forms, such as the cube, could be moved and combined to produce other forms. His design consisted of a cube made up of layers of individual smaller cubes, and each smaller cube could be turned in any direction except diagonally. To ensure that the cubes could move independently, without falling apart, Rubik first attempted to join them together using elastic bands. However, this proved to be impossible, so Rubik then solved the problem by assembling them using a rounded interior. This permitted them to move smoothly and easily. He experimented with different ways of marking the smaller cubes, but ended up with the simple solution of giving a different colour to each side. The object was to twist the layers of small cubes so that each side of the large cube was an identical colour. Rubik took out a patent for the Cube in 1977 and started manufacturing it in the same year. The Cube came to the attention of a Hungarian businessman, Tibor Laczi, who then demonstrated it at the Nuremberg Toy Fair. When British toy expert Tom Kremer saw it, he thought it was amazing and he persuaded a manufacturer, Ideal Toys, to produce 1 million of them in 1979. Ideal Toys renamed the Cube after the toy's inventor, and in 1980, Rubik's Cube was shown at toy fairs all over the world. It won that year's prize in Germany for Best Puzzle. Rubik's Cube is believed to be the world's best-selling puzzle; since its invention, more than 300 million Cubes have been sold worldwide.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "The original name was the _____.",
+        "answer": "Magic Cube",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Smaller cubes are arranged in _____.",
+        "answer": "layers",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The cubes cannot be turned _____.",
+        "answer": "diagonally",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The rounded _____ allows smooth movement.",
+        "answer": "interior",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Each completed face has an _____ colour.",
+        "answer": "identical",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The toy was renamed after its _____.",
+        "answer": "inventor",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "It is the world’s best-selling _____.",
+        "answer": "puzzle",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "The life of the European bee-eater",
+    "passage": "The life of the European bee-eater A brilliant movement of colour as it catches its food in the air, the European bee-eater moves between three continents. True to their name, bee-eaters eat bees (though their diet includes just about any flying insect). When the bird catches a bee, it returns to its tree to get rid of the bee's poison, which it does very efficiently. It hits the insect's head on one side of the branch, then rubs its body on the other. The rubbing makes its prey harmless. European bee-eaters (Merops apiaster) form families that breed in the spring and summer across an area that extends from Spain to Kazakhstan. Farmland and river valleys provide huge numbers of insects. Flocks of bee- eaters follow tractors as they work fields. When the birds come upon a beehive, they eat well – a researcher once found a hundred bees in the stomach of a bee-eater near a hive. European bees pass the winter by sleeping in their hives, which cuts off the bee-eater's main source of food. So, in late summer, bee-eaters begin a long, dangerous journey. Massive flocks from Spain, France and northern Italy cross the Sahara desert to their wintering grounds in West Africa. Bee-eaters from Hungary and other parts of Central and Eastern Europe cross the Mediterranean Sea and Arabian Desert to winter in southern Africa. 'It's an extremely risky stratagem, this migration,' says C. Hilary Fry, a British ornithologist who has studied European bee-eaters for more than 45 years. 'At least 30 percent of the birds will be killed by predators before they make it back to Europe the following spring.' In April, they return to Europe. Birds build nests by digging tunnels in riverbanks. They work for up to 20 days. By the end of the job, they've moved 15 to 26 pounds of soil – more than 80 times their weight. The nesting season is a time when families help each other, and sons or uncles help feed their father's or brother's chicks as soon as they come out of their eggs. The helpers benefit, too: parents with helpers can provide more food for chicks to continue the family line. It's a short, spectacular life. European bee-eaters live for five to six years. The difficulties of migration and avoiding predators along the way affect every bird. Bee-eaters today also find it harder to find food, as there are fewer insects around as a result of pesticides. Breeding sites are also disappearing as rivers are turned into concrete-walled canals. By Bruce Barcott, National Geographic magazine, 2008",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "As well as bees, bee-eaters catch other _____.",
+        "answer": "flying insects",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Bee-eaters remove the bee’s _____ before eating.",
+        "answer": "poison",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Insects are plentiful on farmland and in _____.",
+        "answer": "river valleys",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Bee-eaters spend the winter in _____.",
+        "answer": "Africa",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Many birds are killed during migration by _____.",
+        "answer": "predators",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Bee-eaters build nests by digging _____.",
+        "answer": "tunnels",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Relatives help feed the _____.",
+        "answer": "chicks",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The number of insects has decreased because of _____.",
+        "answer": "pesticides",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Humpback whale breaks migration record",
+    "passage": "Humpback whale breaks migration record A whale surprises researchers with her journey. A lone humpback whale travelled more than 9,800 kilometres from breeding areas in Brazil to those in Madagascar, setting a record for the longest mammal migration ever documented. Humpback whales (Megaptera novaeangliae) are known to have some of the longest migration distances of all mammals, and this huge journey is about 400 kilometres farther than the previous humpback record. The finding was made by Peter Stevick, a biologist at the College of the Atlantic in Bar Harbor, Maine. The whale's journey was unusual not only for its length, but also because it travelled across almost 90 degrees of longitude from west to east. Typically, humpbacks move in a north–south direction between cold feeding areas and warm breeding grounds – and the longest journeys which have been recorded until now have been between breeding and feeding sites. The whale, a female, was first spotted off the coast of Brazil, where researchers photographed its tail fluke and took skin samples for chromosome testing to determine the animal's sex. Two years later, a tourist on a whale- watching boat snapped a photo of the humpback near Madagascar. To match the two sightings, Stevick's team used an extensive international catalogue of photographs of the undersides of tail flukes, which have distinctive markings. Researchers routinely compare the markings in each new photograph to those in the archive. The scientists then estimated the animal's shortest possible route: an arc skirting the southern tip of South Africa and heading north-east towards Madagascar. The minimum distance is 9,800 kilometres, says Stevick, but this is likely to be an underestimate, because the whale probably took a detour to feed on krill in the Southern Ocean near Antarctica before reaching its destination. Most humpback-whale researchers focus their efforts on the Northern Hemisphere because the Southern Ocean near the Antarctic is a hostile environment and it is hard to get to, explains Rochelle Constantine, who studies the ecology of humpback whales at the University of Auckland in New Zealand. But, for whales, oceans in the Southern Hemisphere are wider and easier to travel across, says Constantine. Scientists will probably observe more long-distance migrations in the Southern Hemisphere as satellite tracking becomes increasingly common, she adds. Daniel Palacios, an oceanographer at the University of Hawaii at Manoa, says that the record-breaking journey could indicate that migration patterns are shifting as populations begin to recover from near-extinction and the population increases. But the reasons why the whale did not follow the usual migration routes remain a mystery. She could have been exploring new habitats, or simply have lost her way. 'We generally think of humpback whales as very well studied, but then they surprise us with things like this,' Palacios says. 'Undoubtedly there are a lot of things we still don't know about whale migration.' By Janelle Weaver, published online in Nature",
+    "questions": [
+      {
+        "type": "multi",
+        "prompt": "Which TWO aspects of the whale’s journey surprised researchers?",
+        "answer": [
+          "B",
+          "C"
+        ],
+        "options": [
+          "A. Destination",
+          "B. Direction",
+          "C. Distance",
+          "D. Reason",
+          "E. Season"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO reasons for whale migration are mentioned?",
+        "answer": [
+          "C",
+          "E"
+        ],
+        "options": [
+          "A. Avoid people",
+          "B. Be safe",
+          "C. Eat",
+          "D. Keep warm",
+          "E. Breed"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO methods identified the whale in Brazil?",
+        "answer": [
+          "A",
+          "E"
+        ],
+        "options": [
+          "A. Analyse a body sample",
+          "B. Mark the tail",
+          "C. Note behaviour",
+          "D. Record sounds",
+          "E. Take a photograph"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO places might the whale have passed near?",
+        "answer": [
+          "A",
+          "E"
+        ],
+        "options": [
+          "A. Antarctica",
+          "B. Hawaii",
+          "C. Maine",
+          "D. New Zealand",
+          "E. South Africa"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Why is more research done in the Northern Hemisphere? Choose TWO.",
+        "answer": [
+          "B",
+          "D"
+        ],
+        "options": [
+          "A. More whales",
+          "B. Friendlier conditions",
+          "C. More samples",
+          "D. Easier access",
+          "E. Smaller whales"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO possible reasons for the unusual route are suggested?",
+        "answer": [
+          "A",
+          "D"
+        ],
+        "options": [
+          "A. Got lost",
+          "B. Did not want to breed",
+          "C. Escaped danger",
+          "D. Explored a new habitat",
+          "E. Recovered from illness"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO ways of tracking whale migrations are mentioned?",
+        "answer": [
+          "B",
+          "E"
+        ],
+        "options": [
+          "A. Radio transmitters",
+          "B. Compare photographs",
+          "C. Follow in boats",
+          "D. Fixed cameras",
+          "E. Satellite tracking"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Making a change",
+    "passage": "Making a change How easy is it for us to change our lives – and why? In 1990, a young American named Christopher McCandless gave up his career plans, left behind everyone he knew, including his family, and went off on an adventure. He was 22 at the time. In an act of kindness, he donated all his savings to the famous charity, Oxfam International, and hitchhiked his way through America to Alaska. His decisions were so unusual for his age that Jon Krakauer wrote a book about them called Into the Wild, and Sean Penn directed a film that had the same title. Of course, this is an unusual story. Most college graduates would not do quite the same thing. However, studies do show that in teenage years, people are more likely to try out new experiences. Instead of following the family career path, for example, and working his way up the same organisation like his grandfather did, a 15-year-old may dream about becoming a traveller – only to find in his early 20s that this fascination with new places is declining and change is less attractive. This age-related trend can be observed in all cultures. The reason why people all over the world become less keen to change as they get older may be because people's lives generally follow similar patterns and involve similar demands. Most people, wherever they are, aim to find a job and a partner. As they get older, they may have young children to look after and possibly elderly family members. These responsibilities cannot be achieved without some degree of consistency, which means that new experiences and ideas may not have a place in the person's life. New experiences may bring excitement but also insecurity, and so most people prefer to stay with the familiar. However, not every individual is the same. One toddler may want to play a different game every day and get fed up if nothing changes at the nursery. Another may seek out and play with the same children and toys on every visit. Young children who avoid new experiences will grow up to be more conventional than others. Psychologists argue that those who have more open personalities as children are more open than others might be when they are older. They also suggest that young men have a greater interest in novelty than women, although, as they age, this desire for new experiences fades more quickly than it does in women. The truth is that, as we get older, we prefer the things we know. We tend to order the same meals in restaurants, sit on the same side of the train when we commute to work, go on holiday to the same places and construct our day in the same way. If you are older than 30, remember that your openness to new experiences is slowly declining. So you are better off making a new start today than postponing it until later.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "Teenagers are more ready for new experiences than young adults.",
+        "answer": "YES",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Grandparents usually urge grandchildren to get well-paid jobs.",
+        "answer": "NOT GIVEN",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Life demands vary greatly according to the country.",
+        "answer": "NO",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Some toddlers find repetitive activities boring.",
+        "answer": "YES",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Children who dislike new experiences become more adventurous as adults.",
+        "answer": "NO",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "If you want to make a change, you should avoid delaying it.",
+        "answer": "YES",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "The best cities in the world",
+    "passage": "The best cities in the world In a recent internet survey, tourists and business travellers were asked to rate 50 cities around the world, from the best to the worst. Of the top three cities, two were in Europe and one was in Australia. In third place was London, scoring highly mainly because it was the most famous city on the list of 50 surveyed. It was also seen as a very good place to do business, and was an important cultural centre. However, it lost points because people believed it was an extremely expensive place to live. Sydney was also a very popular destination, achieving second place on the list because people believed it had the friendliest inhabitants, as well as the best standard of living and the nicest climate. It failed to make the top spot, however, because people thought there were very few things to see there, and many also thought it was too far away from other business and cultural centres. At the top of the list was Paris. Despite problems such as the large amount of traffic, it beat other cities to first place because people considered it to be the most interesting city, with more museums, art galleries and places of interest than anywhere else. People also thought it was the best city to take a holiday in.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "London came _____ in the survey.",
+        "answer": "third",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "London was considered a good city for _____.",
+        "answer": "business",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "London was regarded as very _____.",
+        "answer": "expensive",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Sydney had the _____ residents.",
+        "answer": "friendliest",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Sydney had the most pleasant _____.",
+        "answer": "climate",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Paris came _____.",
+        "answer": "first",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Paris was seen as the most _____ city.",
+        "answer": "interesting",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Paris had a lot of _____.",
+        "answer": "traffic",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "A city survey with a difference",
+    "passage": "A city survey with a difference There are many websites on the Internet which provide lists of the world's best cities to visit, live or work in. These lists usually grade the cities in order, from 'best' to 'worst', and are based on facts and figures provided by local or national organisations. The City Brands Index (CBI) also provides a list of best and worst cities. However, unlike other surveys, it is based on the idea that cities are similar to products in shops. It asks ordinary people in other countries to grade cities in the same way that they would grade a product, like a soft drink or a car. What is particularly different about the CBI is that the people who take part in the survey may not have ever visited the cities. Instead, they are asked to say what they think the cities are like, basing their opinions on things like news stories, magazine articles or television programmes they have heard or seen. Each year, about 10,000 people in 20 countries take part in the CBI survey, and they grade a total of 50 cities. They do this by filling in an online questionnaire. There are several categories in the survey. These include things like the economy, education, the environment, local culture, climate and what the city's residents are like. The CBI list is useful because it helps people choose a good place to live, find work or take a holiday. It also helps regional governments to understand why people and businesses are, or are not, coming to their cities, and so shows them areas which they could develop or improve.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "The CBI treats cities like _____ in shops.",
+        "answer": "products",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The survey takes place every _____.",
+        "answer": "year",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The CBI includes a maximum of _____ cities.",
+        "answer": "50",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Several different _____ are included.",
+        "answer": "categories",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The list helps people choose where to _____.",
+        "answer": "live",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "It also helps people select a _____ destination.",
+        "answer": "holiday",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "It helps regional _____ improve their cities.",
+        "answer": "governments",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Patrick Malone",
+    "passage": "Patrick Malone (Part 1) Patrick Malone is a traveller, writer and broadcaster. He was born in 1968 in Basel, Switzerland, where his British parents were working for a pharmaceutical company. His family left Switzerland when he was twelve, and returned to their home in Britain. For the next six years, Malone attended the local secondary school. He then went to Leeds University to do a course in Human Geography. He wanted to become a town planner. However, the only work he could find was as a teacher at a local school. During his holidays and free time, he went walking, often covering very long distances very quickly. On one occasion he walked the entire length of Britain, a distance of over 1,400 kilometres, in less than a month. He enjoyed the experience and the challenge so much that he started walking in different parts of the world, usually in fairly remote areas away from major population centres. The people he met and the experiences he had on these trips provided him with some excellent material for his classes. It was during one trip that he met his old university tutor, Don Perkins. At the time, Perkins was putting together a team of geographers and biologists for a research trip to the Amazon, and asked Malone if he would like to go with them. The expedition was for a whole year, and so he had to give up his job at the school, but Malone did not hesitate to accept Perkins' offer. He sold his car to make some money, bought an airline ticket for Brazil and set off. Patrick Malone (Part 2) The Amazon expedition, which took six months and covered a distance of almost 2,500 kilometres, was a great success. The group discovered some new plant and insect species, as well as a forest tribe which people had never heard of. Malone enjoyed the trip so much that he decided to become a full-time explorer. He earned money by writing travel articles for magazines and newspapers, which he illustrated with his own photographs. In 1996, he married Margaret Logan, an American doctor he had met while travelling around Africa. In 1998 they had Adam, the first of three children (twins Amelia and Jennifer were born a year later). Many families at this stage would settle down, but Margaret and Patrick decided to keep travelling, spending two years walking around India and another twelve months exploring the islands of Indonesia. When they returned home, they wrote a magazine article about travelling with small children. It was so popular that they were asked to write several more articles on the same subject. This was followed by an offer from a television company to present a TV series about travelling with children. The series ran for 12 years, and won several television awards. Today they still make the most of every opportunity to travel, and have recently returned from the South Pacific.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "His family moved back to _____ when he was twelve.",
+        "answer": "Britain",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He studied _____ at university.",
+        "answer": "Human Geography",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "His first job was as a _____.",
+        "answer": "teacher",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He walked over _____ along Britain.",
+        "answer": "1,400 kilometres",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He often walked in _____ areas.",
+        "answer": "remote",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He joined an _____ to the Amazon.",
+        "answer": "expedition",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The expedition _____ a previously unknown tribe.",
+        "answer": "discovered",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He _____ Margaret Logan in 1996.",
+        "answer": "married",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "They had _____ children.",
+        "answer": "three",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "They explored Indonesia for _____.",
+        "answer": "twelve months",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "They presented a successful _____.",
+        "answer": "TV series",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The couple still likes to _____ whenever possible.",
+        "answer": "travel",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Sylvia Earle, underwater hero",
+    "passage": "Sylvia Earle, underwater hero She has spent her working life studying the world's oceans. Sylvia Earle is an underwater explorer and marine biologist who was born in the USA in 1935. She became interested in the world's oceans from an early age. As a child, she liked to stand on the beach for hours and look at the sea, wondering what it must be like under the surface. When she was 16, she finally got a chance to make her first dive. It was this dive that inspired her to become an underwater explorer. Since then, she has spent more than 6,500 hours under water, and has led more than seventy expeditions worldwide. She has also made the deepest dive ever, reaching a record-breaking depth of 381 metres. In 1970, she became famous around the world when she became the captain of the first all-female team to live under water. The team spent two weeks in an underwater 'house'. The research they carried out showed the damage that pollution was causing to marine life, and especially to coral reefs. Her team also studied the problem of over-fishing. Fishing methods meant that people were catching too many fish, Earle warned, and many species were in danger of becoming extinct. Since then she has written several books and magazine articles in which she suggests ways of reducing the damage that is being done to the world's oceans. One way, she believes, is to rely on fish farms for seafood, and reduce the amount of fishing that is done out at sea. Although she no longer eats seafood herself, she realises the importance it plays in our diets. It would be wrong to tell people they should stop eating fish from the sea, she says. However, they need to reduce the impact they are having on the ocean's supplies.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "What career did Sylvia choose after her first dive?",
+        "answer": "underwater explorer",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "What record depth did she reach?",
+        "answer": "381 metres",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "What was harming marine life?",
+        "answer": "pollution",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Where does she suggest obtaining seafood?",
+        "answer": "fish farms",
+        "options": null
+      },
+      {
+        "type": "choice",
+        "prompt": "Sylvia Earle currently lives in the USA.",
+        "answer": "NOT GIVEN",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Before 1970, no one had ever lived underwater.",
+        "answer": "FALSE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Sylvia was worried about over-fishing.",
+        "answer": "TRUE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Her books suggest solutions to ocean problems.",
+        "answer": "TRUE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "She believes everyone should stop eating seafood.",
+        "answer": "FALSE",
+        "options": [
+          "TRUE",
+          "FALSE",
+          "NOT GIVEN"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "The Boeing 787",
+    "passage": "The Boeing 787 The Boeing 787 'Dreamliner' has been described as the airliner of the future. We look at the technology that makes it different. Until now, airliner fuselages have been made of aluminium sheets. Large aircraft can have 1,500 of these sheets with between 40,000 and 50,000 metal fasteners. The 787 is the first airliner to be built with a one-piece fuselage made from a special material called 'composite'. Not only does this make the airliner quicker and easier to build, but it also makes it a lot lighter. The advantage of this weight reduction is that the 787 uses 20 percent less fuel than other airliners of a similar size, which makes it much more environmentally friendly. The reduced weight also means that the Boeing 787 can fly further than many other airliners of a similar size, carrying 210 passengers or more up to 15,200 kilometres before refuelling. Sometimes an airliner needs to change from one type of engine to another. This is a difficult and time- consuming process. The 787 has a revolutionary engine attachment on the wing which means that the engines can be changed in a much shorter time. The case containing the engine is also different from those on other airliners. It has been designed to cut down the noise from the engine, making it less noisy for passengers in the cabin as well as for people on the ground. In addition to a quieter cabin, passengers will also benefit from windows which are 65 percent larger than those on other airliners, giving them a much better view of the world passing by below them. The windows also have a unique facility which allows passengers or cabin crew to control the amount of light that enters them. This is thanks to a liquid in the window which reacts to an electric current. When a passenger or cabin crew member presses a button, the current causes a chemical reaction in the window which darkens the liquid.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "The composite fuselage is much _____ than aluminium.",
+        "answer": "lighter",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The airliner uses 20% less _____.",
+        "answer": "fuel",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The plane carries at least _____ passengers.",
+        "answer": "210",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Engines can be replaced in a _____.",
+        "answer": "shorter time",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "A new engine case reduces _____.",
+        "answer": "noise",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The windows are _____ larger.",
+        "answer": "65 percent",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "A liquid in the windows responds to an _____.",
+        "answer": "electric current",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Pedestrians only",
+    "passage": "Pedestrians only How traffic-free shopping streets developed A. The concept of traffic-free shopping areas goes back a long time. During the Middle Ages, traffic-free shopping areas known as souks were built in Middle Eastern countries to allow people to shop in comfort and, more importantly, safety. As far back as 2,000 years ago, road traffic was banned from central Rome during the day to allow for the free movement of pedestrians, and was only allowed in at night when shops and markets had closed for the day. In most other cities, however, pedestrians were forced to share the streets with horses, coaches and, later, with cars and other motorised vehicles. B. The modern, traffic-free shopping street was born in Europe in the 1960s, when both city populations and car ownership increased rapidly. Dirty exhaust fumes from cars and the risks involved in crossing the road were beginning to make shopping an unpleasant and dangerous experience. Many believed the time was right for experimenting with car-free streets, and shopping areas seemed the best place to start. C. At first, there was resistance from shopkeepers. They believed that such a move would be bad for business. They argued that people would avoid streets if they were unable to get to them in their cars. When the first streets in Europe were closed to traffic, there were even noisy demonstrations, as many shopkeepers predicted they would lose customers. D. However, research carried out afterwards in several European cities revealed some unexpected statistics. In Munich, Cologne and Hamburg, visitors to shopping areas increased by 50 percent. On Copenhagen's main shopping street, shopkeepers reported sales increases of 25–40 percent. Shopkeepers in Minneapolis, USA, were so impressed when they learnt this that they even offered to pay for the construction and maintenance costs of their own traffic-free streets. E. With the arrival of the traffic-free shopping street, many shops, especially those selling things like clothes, food and smaller luxury items, prospered. Unfortunately, it wasn't good news for everyone, as shops selling furniture and larger electrical appliances actually saw their sales drop. Many of these were forced to move elsewhere, away from the city centre. Today they are a common feature on the outskirts of towns and cities, often situated in out-of-town retail zones with their own car parks and other local facilities.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph A",
+        "answer": "vi",
+        "options": [
+          "i. Facing local opposition",
+          "ii. Some reasons for success",
+          "iii. Winners and losers",
+          "iv. A need for change",
+          "v. An experiment that went wrong",
+          "vi. An idea from ancient history",
+          "vii. North America learns from Europe"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph B",
+        "answer": "iv",
+        "options": [
+          "i. Facing local opposition",
+          "ii. Some reasons for success",
+          "iii. Winners and losers",
+          "iv. A need for change",
+          "v. An experiment that went wrong",
+          "vi. An idea from ancient history",
+          "vii. North America learns from Europe"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph C",
+        "answer": "i",
+        "options": [
+          "i. Facing local opposition",
+          "ii. Some reasons for success",
+          "iii. Winners and losers",
+          "iv. A need for change",
+          "v. An experiment that went wrong",
+          "vi. An idea from ancient history",
+          "vii. North America learns from Europe"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph D",
+        "answer": "vii",
+        "options": [
+          "i. Facing local opposition",
+          "ii. Some reasons for success",
+          "iii. Winners and losers",
+          "iv. A need for change",
+          "v. An experiment that went wrong",
+          "vi. An idea from ancient history",
+          "vii. North America learns from Europe"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Heading for paragraph E",
+        "answer": "iii",
+        "options": [
+          "i. Facing local opposition",
+          "ii. Some reasons for success",
+          "iii. Winners and losers",
+          "iv. A need for change",
+          "v. An experiment that went wrong",
+          "vi. An idea from ancient history",
+          "vii. North America learns from Europe"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "The ballpoint pen",
+    "passage": "The ballpoint pen Most of us have at least one, but how did this popular item evolve? One morning in 1945, a crowd of 5,000 people jammed the entrance of Gimbels Department Store in New York. The day before, Gimbels had placed a full-page advertisement in the New York Times for a wonderful new invention, the ballpoint pen. The advertisement described the pen as 'fantastic' and 'miraculous'. Although they were expensive, $12.50 each, all 10,000 pens in stock were sold on the first day. In fact, this 'new' pen was not new at all. In 1888, John Loud, a leather manufacturer, had invented a pen with a reservoir of ink and a rolling ball. However, his pen was never produced, and efforts by other people to produce a commercially successful one failed too. The main problem was with the ink. If it was too thin, the ink leaked out of the pen. If it was too thick, it didn't come out of the pen at all. Almost fifty years later, in 1935, a newspaper editor in Hungary thought he spent too much time filling his pens with ink. He decided to invent a better kind of pen. With the help of his brother, who was a chemist, he produced a ballpoint pen that didn't leak when the pen wasn't being used. The editor was called Ladislas Biro, and it was his name that people would associate more than any other with the ballpoint pen. By chance, Biro met Augustine Justo, the Argentinian president. Justo was so impressed with Biro's invention that he invited him to set up a factory in Argentina. In 1943, the first Biro pens were produced. Unfortunately, they were not popular, since the pen needed to be held in a vertical position for the ink to come out. Biro redesigned the pen with a better ball, and in 1944 the new product was on sale throughout Argentina. It was a North American, Milton Reynolds, who introduced the ballpoint pen to the USA. Copying Biro's design, he produced the version that sold so well at Gimbels. Another American, Patrick Frawley, improved the design and in 1950 began producing a pen he called the Papermate. It was an immediate success, and within a few years, Papermates were selling in their millions around the world.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "Why did people go to Gimbels for a ballpoint pen?",
+        "answer": "B",
+        "options": [
+          "A. Unavailable elsewhere",
+          "B. They had heard how good it was",
+          "C. They had never seen one",
+          "D. The price was low"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Why did early ballpoint pens fail commercially?",
+        "answer": "D",
+        "options": [
+          "A. No demand",
+          "B. Too expensive to make",
+          "C. Used too much ink",
+          "D. They did not work reliably"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Why was Biro’s pen an improvement?",
+        "answer": "C",
+        "options": [
+          "A. Needed fewer refills",
+          "B. Was designed by a chemist",
+          "C. The ink stayed inside until needed",
+          "D. Easier to use"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Which statement about Biro’s first commercially produced pen is correct?",
+        "answer": "B",
+        "options": [
+          "A. Made in the president’s factory",
+          "B. Worked only when held in a certain position",
+          "C. A major success immediately",
+          "D. Went on sale in 1944"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Which describes Patrick Frawley’s pen?",
+        "answer": "A",
+        "options": [
+          "A. An improved earlier design",
+          "B. Slow to become successful",
+          "C. First successful US ballpoint",
+          "D. Only successful in the USA"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Marcel Bich",
+    "passage": "The man who turned a luxury item into an everyday object Marcel Bich, a French manufacturer of traditional ink pens, was the man who turned the ballpoint pen into an item that today almost anyone can afford. Bich was appalled at the poor quality of the ballpoint pens that were available, and was also shocked at their high cost. However, he recognised that the ballpoint was a firmly established invention, and he decided to design a cheap pen that worked well and would be commercially successful. Bich went to the Biro brothers and asked them if he could use the design of their original invention in one of his own pens. In return, he offered to pay them every time he sold a pen. Then, for two years, Bich studied the detailed construction of every ballpoint pen that was being sold, often working with a microscope. By 1950, he was ready to introduce his new wonder: a plastic pen with a clear barrel that wrote smoothly, did not leak and only cost a few cents. He called it the 'Bic Cristal'. The ballpoint pen had finally become a practical writing instrument. The public liked it immediately, and today it is as common as the pencil. In Britain, they are still called Biros, and many Bic models also say 'Biro' on the side of the pen, to remind people of their original inventors. Bich became extremely wealthy thanks to his invention, which had worldwide appeal. Over the next 60 years his company, Société Bic, opened factories all over the world and expanded its range of inexpensive products. Today, Bic is as famous for its lighters and razors as it is for its pens, and you can even buy a Bic mobile phone.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "Bich made pens that almost everyone could _____.",
+        "answer": "afford",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He was shocked by their _____.",
+        "answer": "high cost",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He intended to design a _____ pen.",
+        "answer": "cheap",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "His pen was based on Biro’s _____.",
+        "answer": "original invention",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "He _____ existing ballpoint designs.",
+        "answer": "studied",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The Bic Cristal was popular with the _____.",
+        "answer": "public",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The company now makes various inexpensive _____.",
+        "answer": "products",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "The honey badger",
+    "passage": "The honey badger It looks harmless and vulnerable. But the honey badger is afraid of nothing... and will attack and eat almost anything. The honey badger (Mellivora capensis) is an African and south-Asian mammal that has a reputation for being one of the world's most fearless animals, despite its small size. And, in spite of its gentle-sounding name, it is also one of its most aggressive. Honey badgers have been known to attack lions, buffalo, and snakes three times their size. Even humans are not safe from a honey badger if it thinks the human will attack or harm it. They are also extremely tough creatures, and can recover quickly from injuries that would kill most other animals. At first glance, honey badgers look like the common European badger. They are usually between 75cm and 1 metre long, although males are about twice the size of females. They are instantly recognisable by grey and white stripes that extend from the top of the head to the tail. Closer inspection, which is probably not a wise thing to do, reveals pointed teeth, and sharp front claws which can be four centimetres in length. Honey badgers are meat-eating animals with an extremely varied diet. They mainly eat a range of small creatures like beetles, lizards and birds, but will also catch larger reptiles like snakes and small crocodiles. Some mammals, such as foxes, antelope and wild cats also form part of their diet. The badgers locate their prey mainly using their excellent sense of smell, and catch most of their prey through digging. During a 24-hour period, they may dig as many as fifty holes, and travel more than 40 kilometres. They are also good climbers, and can easily climb very tall trees to steal eggs from birds' nests, or catch other tree-dwelling creatures. As their name suggests, honey badgers have always been associated with honey, although they do not actually eat it. It is the highly nutritious bee eggs (called 'brood') that they prefer, and they will do anything to find it. They usually cause a lot of damage to the hive in the process, and for this reason, humans are one of their main predators. Bee-keepers will often set special traps for honey badgers, to protect their hives. One of the most fascinating aspects of the honey badger is its working relationship with a bird called the greater honeyguide (Indicator indicator). This bird deliberately guides the badger to beehives, then waits while the badger breaks into the hive and extracts the brood. The two creatures, bird and mammal, then share the brood between them.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "Honey badgers are fearless and _____.",
+        "answer": "aggressive",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "They may attack _____ if threatened.",
+        "answer": "humans",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Their markings make them _____.",
+        "answer": "instantly recognisable",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Their meat-based diet is extremely _____.",
+        "answer": "varied",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "They mainly eat _____.",
+        "answer": "small creatures",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "They locate prey using their sense of _____.",
+        "answer": "smell",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "Beekeepers sometimes use _____ to catch them.",
+        "answer": "traps",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "They have a _____ with the greater honeyguide.",
+        "answer": "working relationship",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "On the trail of the honey badger",
+    "passage": "On the trail of the honey badger Researchers learn more about this fearless African predator On a recent field trip to the Kalahari Desert, a team of researchers learnt a lot more about honey badgers. They were rewarded with a detailed insight into how these fascinating creatures live and hunt. The team employed a local wildlife expert, Kitso Khama, to help them locate and follow the badgers across the desert. Their main aim was to study the badgers' movements and behaviour as discreetly as possible, without frightening them away or causing them to change their natural behaviour. They also planned to trap a few and study them close up before releasing them. In view of the animals' reputation, this was something that even Khama was reluctant to do. 'The problem with honey badgers is they are naturally curious animals, especially when they see something new,' he says. 'That, combined with their unpredictable nature, can be a dangerous mixture. If they sense you have food, for example, they won't be shy about coming right up to you for something to eat. They're actually quite sociable creatures around humans, but as soon as they feel they might be in danger, they can become extremely vicious. Fortunately this is rare, but it does happen.' The research confirmed many things that were already known. As expected, honey badgers ate any creatures they could catch and kill. Even poisonous snakes, feared and avoided by most other animals, were not safe from them. The researchers were surprised, however, by the animals' fondness for local melons, probably because of their high water content. Previously researchers thought that the animal got all of its liquid requirements from its prey. The team also learnt that, contrary to previous research findings, the badgers occasionally formed loose family groups. They were also able to confirm certain results from previous research, including the fact that female badgers never socialised with each other. Following some of the male badgers was a challenge, since they can cover large distances in a short space of time. Some hunting territories cover more than 500 square kilometres. Although they seem happy to share these territories with other males, there are occasional fights over an important food source, and male badgers can be as aggressive towards each other as they are towards other species. As the badgers became accustomed to the presence of people, it gave the team the chance to get up close to them without being the subject of the animals' curiosity – or their sudden aggression. The badgers' eating patterns, which had been disrupted, returned to normal. It also allowed the team to observe more closely some of the other creatures that form working associations with the honey badger, as these seemed to adopt the badgers' relaxed attitude when near humans.",
+    "questions": [
+      {
+        "type": "multi",
+        "prompt": "Why did the researchers visit the Kalahari? Choose TWO.",
+        "answer": [
+          "B",
+          "D"
+        ],
+        "options": [
+          "A. Find where they live",
+          "B. Observe behaviour",
+          "C. Change their behaviour",
+          "D. Temporarily catch some",
+          "E. Explain their reputation"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO qualities does Khama mention?",
+        "answer": [
+          "A",
+          "B"
+        ],
+        "options": [
+          "A. Curious about unfamiliar things",
+          "B. Unpredictable",
+          "C. Always seeking food",
+          "D. Dislike people",
+          "E. Commonly attack people"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO new findings did the team make?",
+        "answer": [
+          "C",
+          "D"
+        ],
+        "options": [
+          "A. Refuse some prey",
+          "B. Fear poisonous creatures",
+          "C. Get water from fruit",
+          "D. Sometimes form groups",
+          "E. Females never meet males"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "Which TWO features are typical of male badgers?",
+        "answer": [
+          "B",
+          "D"
+        ],
+        "options": [
+          "A. Slow runners",
+          "B. Hunt over large areas",
+          "C. Always defend territories",
+          "D. Sometimes fight each other",
+          "E. More aggressive than females"
+        ]
+      },
+      {
+        "type": "multi",
+        "prompt": "What TWO changes happened once they became used to humans?",
+        "answer": [
+          "A",
+          "E"
+        ],
+        "options": [
+          "A. Lost interest in people",
+          "B. Less aggressive toward all animals",
+          "C. Ate more",
+          "D. Started partnerships",
+          "E. Nearby animals became more relaxed"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Breaking the habit",
+    "passage": "Breaking the habit We all think we can break our bad habits – but they can stay with us for life. What is a bad habit? The most common definition is that it is something that we do regularly, almost without thinking about it, and which has some sort of negative consequence. This consequence could affect those around us, or it could affect us personally. Those who deny having bad habits are probably lying. Bad habits are part of what makes us human. Many early habits, like sucking our thumb, are broken when we are very young. We are either told to stop doing it by our parents, or we consciously or subconsciously observe that others do not have the same habit, and we gradually grow out of it. It is when we intentionally or unintentionally pick up new habits in our later childhood or early adulthood that it becomes a problem. Unless we can break that habit early on, it becomes a part of our life, and becomes 'programmed' into our brain. A recent study of human memory suggests that no matter how hard we try to change our habits, it is the old ways that tend to win, especially in situations where we are rushed, stressed or overworked. Habits that we thought we had got rid of can suddenly come back. During the study programme, the researchers showed a group of volunteers several pictures, and gave them words to associate with them (for example, see a picture of tea, and associate it with 'breakfast'). They then showed the volunteers the same pictures again, and gave them new words to associate with them (see a picture of tea, and say 'afternoon'). A few days later, the volunteers were given a test. The researchers showed them the pictures, and told them to respond with one of the words they had been given for each one. It came as no surprise that their answers were split between the first set of words and the second. Two weeks later, they were given the same test again. This time, most of them only gave the first set of words. They appeared to have completely forgotten the second set. The study confirms that the responses we learn first are those that remain strongest over time. We may try to change our ways, but after a while, the response that comes to mind first is usually the first one we learned. The more that response is used, the more automatic it becomes and the harder it becomes to respond in any other way. The study therefore suggests that over time, our bad habits also become automatic, learned behaviour. This is not good news for people who picked up bad habits early in life and now want to change or break them. Even when we try to put new, good intentions into practice, those previously learned habits remain stronger in more automatic, unconscious forms of memory.",
+    "questions": [
+      {
+        "type": "choice",
+        "prompt": "We usually develop bad habits when we are very young.",
+        "answer": "NO",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Only being told to stop can break a bad habit.",
+        "answer": "NO",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Bad habits can return under pressure.",
+        "answer": "YES",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Researchers were surprised by the first test results.",
+        "answer": "NO",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "The volunteers found the second test harder.",
+        "answer": "NOT GIVEN",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Things learnt when young are harder to remember.",
+        "answer": "NO",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      {
+        "type": "choice",
+        "prompt": "Early bad habits can be difficult to eliminate.",
+        "answer": "YES",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      }
+    ],
+    "label": "Reading"
+  },
+  {
+    "title": "Fighting fear using virtual reality",
+    "passage": "Fighting fear using virtual reality Computers are not just for entertainment, shopping or research purposes – as one woman found out when she tried to cure her fears. Most people have at least one thing they are afraid of. A fear of things like snakes, spiders, dogs, heights or open spaces affects over 90% of the population. In extreme cases, a fear can develop into a phobia, where the fear of something is so powerful it can affect the way the sufferer lives their life. About 10% of people suffer from a phobia. Most sufferers never seek treatment, because the most common type of cure – 'exposure therapy' – involves them being exposed to the object of their fear, and this is the last thing many of them are prepared to do. There is now a new cure for phobias, using something called virtual reality exposure therapy (VRET). The concept is simple. The person with the phobia wears a virtual reality headset. A computer, controlled by a therapist, then simulates a variety of situations in which the sufferer is gradually exposed to the object of their fears, which they view on the headset's screen. At the same time, the therapist explains why they should not be afraid of it. The technique is surprisingly successful, as this case demonstrates. Sara Considine had a serious spider phobia, and had developed several spider-related behaviour patterns. Before going to bed, for example, she would check her room for spiders, then seal the windows with tape so none could get in. She had frightening dreams about spiders every night. Eventually, she decided to get treatment. During twelve one-hour virtual reality sessions over a three-month period, Ms Considine started very slowly. First, she stood a long way from the virtual spider and just looked at it. Slowly, she moved a little closer. The therapist controlling the computer programme then made the virtual spider move. After just two sessions, Ms Considine reported that although she still saw spiders in her dreams, they were no longer frightening, and she had even managed to have an amusing 'conversation' with one of them. A few sessions later, the therapist encouraged her to hold the virtual spider in her virtual hand, and put it in places where the presence of a real spider would cause her fear. The next stage was to introduce touch. A large toy spider was placed next to her. Ms Considine then reached out to touch the virtual spider she could see on the screen, and at the same time her real hand touched the toy spider. After her sessions were over, Sara Considine was able to stop her spider-related behaviour. She even took up camping, something she would never have considered before therapy. More recently she has appeared on a television nature programme, where for the first time she was able to hold a real spider in her hands.",
+    "questions": [
+      {
+        "type": "fill",
+        "prompt": "Sara’s treatment programme lasted _____ months.",
+        "answer": "three",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "At first, the sessions did not progress very _____.",
+        "answer": "quickly",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "At first, she merely _____ the virtual spider.",
+        "answer": "observed",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "After two sessions, she was no longer _____ spiders in her dreams.",
+        "answer": "afraid of",
+        "options": null
+      },
+      {
+        "type": "fill",
+        "prompt": "The later stage involved physical _____ with a toy spider.",
+        "answer": "contact",
+        "options": null
+      }
+    ],
+    "label": "Reading"
+  }
+]
